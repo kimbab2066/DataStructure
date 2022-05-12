@@ -1,6 +1,6 @@
-package list;
+package java;
 
-public class test {
+public class Java_Concept {
 	public static void main(String[] args) {
 		String str = 1 + 2 + "123" + 123;
 		System.out.println(str);
