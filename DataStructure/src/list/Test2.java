@@ -2,7 +2,7 @@ package list;
 
 public class Test2 {
 	public static void main(String[] args) {
-		SingleLinkedList<String> sll = new SingleLinkedList<String>();
+		SinglyLinkedList<String> sll = new SinglyLinkedList<String>();
 		sll.add("1");
 		sll.add("2");
 		sll.add("3");
