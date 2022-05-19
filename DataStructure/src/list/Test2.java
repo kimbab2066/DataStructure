@@ -6,7 +6,6 @@ public class Test2 {
 		sll.add("1");
 		sll.add("2");
 		sll.add("3");
-
 		System.out.println(sll.toString());
 
 		sll.remove("2");

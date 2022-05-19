@@ -17,7 +17,7 @@ public class SinglyLinkedList<E> implements List<E> {
 
 		Node<E> n = head;
 
-		for (int i = 0; i < index; i++)n = n.next;
+		for (int i = 0; i < index; i++) n = n.next;
 
 		return n;
 	}
